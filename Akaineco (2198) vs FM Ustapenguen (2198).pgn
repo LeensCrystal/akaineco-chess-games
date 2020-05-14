@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GvCZGU2W"]
+[Date "2020.04.19"]
+[Round "-"]
+[White "Akaineco"]
+[Black "Ustapenguen"]
+[Result "1-0"]
+[UTCDate "2020.04.19"]
+[UTCTime "10:49:56"]
+[WhiteElo "2198"]
+[BlackElo "2198"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[BlackTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C35"]
+[Opening "King's Gambit Accepted, Cunningham Defense"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 d5 5. exd5 Bh4+ 6. Kf1 Bg4 7. Qe2+ Be7 8. d4 Nf6 9. Nc3 O-O 10. Bxf4 c6 11. d6 Bxd6 12. Bxd6 Qxd6 13. Qd3 Nbd7 14. Re1 Rae8 15. Kf2 Bxf3 16. gxf3 Qf4 17. Ne4 Ng4+ 18. Kg2 Ndf6 19. Nxf6+ Nxf6 20. Rhf1 Nd5 21. Bxd5 cxd5 22. c3 Re6 23. Rxe6 fxe6 24. Qe2 Rf6 25. Kh1 g5 26. Rg1 h6 27. Rg3 Kf7 28. Qc2 Kg7 29. Qb3 Qc1+ 30. Rg1 Qe3 31. Rg3 Rf7 32. Qd1 h5 33. h4 g4 34. Kh2 Rxf3 35. Rxf3 gxf3 36. Qg1+ Kh6 37. Qxe3+ 1-0
+
+
