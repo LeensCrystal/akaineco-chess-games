@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YACDx6So"]
+[Date "2020.05.11"]
+[Round "-"]
+[White "Akaineco"]
+[Black "sonson28291"]
+[Result "1-0"]
+[UTCDate "2020.05.11"]
+[UTCTime "13:55:51"]
+[WhiteElo "2227"]
+[BlackElo "2234"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[BlackTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 d5 3. Nc3 d4 4. Nb1 Nc6 5. Bb5 Nf6 6. Bxc6+ bxc6 7. d3 e6 8. Nf3 Ba6 9. b3 Be7 10. O-O Rb8 11. Nbd2 O-O 12. Ne5 Qc7 13. Ndc4 Nd7 14. Qe1 Bxc4 15. Nxc4 f6 16. a4 e5 17. Qg3 Rbe8 18. Bd2 Rf7 19. fxe5 Nxe5 20. Nxe5 fxe5 21. Rxf7 Kxf7 22. Rf1+ Bf6 23. Qh4 Kg8 24. Qg4 Qe7 25. g3 Rf8 26. h4 h6 27. h5 Bg5 28. Rxf8+ Kxf8 29. Bxg5 Qxg5 30. Qxg5 hxg5 31. g4 g6 32. Kf1 gxh5 33. gxh5 Kg7 34. Ke2 Kh6 35. Kd2 Kxh5 36. c3 g4 37. cxd4 cxd4 38. b4 g3 39. Ke2 Kg4 40. Kf1 Kf3 41. Kg1 Ke3 42. b5 Kxd3 43. bxc6 Kxe4 44. c7 d3 45. c8=Q d2 46. Qc2+ Ke3 47. Qd1 e4 48. Kg2 Kd3 49. Kxg3 e3 50. Kf3 1-0
+
+
