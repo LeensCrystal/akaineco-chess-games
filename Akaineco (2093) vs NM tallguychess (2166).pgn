@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/e9KQ2HEy"]
+[Date "2019.09.05"]
+[Round "-"]
+[White "Akaineco"]
+[Black "tallguychess"]
+[Result "1-0"]
+[UTCDate "2019.09.05"]
+[UTCTime "07:24:49"]
+[WhiteElo "2093"]
+[BlackElo "2166"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[BlackTitle "NM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 g6 4. Bb5 Nd4 5. Nxd4 cxd4 6. O-O Bg7 7. d3 e6 8. f5 Ne7 9. fxe6 fxe6 10. Bg5 Qa5 11. Bxe7 Qxb5 12. Ba3 b6 13. Qf3 Qe5 14. Qf7+ Kd8 15. Nd2 Ba6 16. Rf4 Kc7 17. Nf3 Rhf8 18. Nxe5 Bxe5 19. Qxf8 Bxf4 20. Qxa8 1-0
+
+
