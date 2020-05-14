@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jaFpH0ZK"]
+[Date "2020.02.02"]
+[Round "-"]
+[White "JosePadeiro"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2020.02.02"]
+[UTCTime "20:01:43"]
+[WhiteElo "2240"]
+[BlackElo "2227"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[WhiteTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 f5 5. g3 Nf6 6. Bg2 Bd6 7. O-O O-O 8. Bf4 Ne4 9. Bxd6 Qxd6 10. Ne5 Nd7 11. Nxd7 Bxd7 12. Nxe4 fxe4 13. f3 exf3 14. c5 fxg2 15. cxd6 gxf1=Q+ 16. Qxf1 Rxf1+ 0-1
+
+
