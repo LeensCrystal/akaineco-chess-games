@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eax70bfD"]
+[Date "2019.08.27"]
+[Round "-"]
+[White "Akaineco"]
+[Black "williamyen"]
+[Result "1-0"]
+[UTCDate "2019.08.27"]
+[UTCTime "09:13:03"]
+[WhiteElo "2134"]
+[BlackElo "2172"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[BlackTitle "NM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 d5 4. Nc3 d4 5. Nb1 Bg4 6. Bb5 Qb6 7. Bxc6+ Qxc6 8. d3 f6 9. O-O O-O-O 10. Nbd2 g5 11. Nc4 gxf4 12. Bxf4 e5 13. Bd2 Bh6 14. Bxh6 Nxh6 15. a4 Nf7 16. Qe1 Bxf3 17. Rxf3 Ng5 18. Rf5 h5 19. Qh4 Rdg8 20. Raf1 Qxa4 21. Rxf6 Qxc2 22. Nxe5 Qxb2 23. Rg6 Qd2 24. Rf2 Qc1+ 25. Rf1 Qe3+ 26. Kh1 Kb8 27. Rxg8+ Rxg8 28. Nd7+ Ka8 29. Nxc5 b6 30. Nd7 Qxd3 31. Qf2 Nxe4 32. Qf7 Rd8 33. Qd5# 1-0
+
+
