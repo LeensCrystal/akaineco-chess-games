@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vY4ROniK"]
+[Date "2020.05.06"]
+[Round "-"]
+[White "Akaineco"]
+[Black "Reynold9402"]
+[Result "1-0"]
+[UTCDate "2020.05.06"]
+[UTCTime "06:27:50"]
+[WhiteElo "2204"]
+[BlackElo "2359"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[BlackTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C35"]
+[Opening "King's Gambit Accepted, Cunningham Defense"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 Nh6 6. d3 Ng4 7. Bxf4 d5 8. Bxd5 c6 9. Bb3 Nf2 10. Qe1 Nxh1 11. Qxh4 Qxh4 12. Nxh4 f6 13. Nf3 g5 14. Bxb8 Rxb8 15. Kg1 g4 16. Nd4 c5 17. Nf5 Bxf5 18. exf5 Ke7 19. Kxh1 Kd6 20. Nd2 b5 21. Be6 h5 22. g3 h4 23. Kg2 hxg3 24. hxg3 Rh3 25. Rh1 Rbh8 26. Rxh3 gxh3+ 27. Kh2 Ke5 28. Nf3+ Kd6 29. Ng1 Ke5 30. Nxh3 Kd4 31. Kg2 c4 32. dxc4 bxc4 33. Nf4 Kc5 34. Kf3 Rh2 35. Ng2 Rh8 36. Ne3 Rb8 37. Nxc4 Rb4 38. b3 Kd4 39. g4 Kc3 40. g5 fxg5 41. f6 Rb8 42. f7 Kxc2 43. Kg4 a5 44. Nxa5 Kb2 45. a4 Ka3 46. Nc6 Rf8 47. Kxg5 1-0
+
+
