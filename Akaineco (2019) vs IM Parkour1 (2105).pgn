@@ -1,0 +1,23 @@
+[Event "Hourly SuperBlitz Arena"]
+[Site "https://lichess.org/5KDg60Uq"]
+[Date "2019.03.04"]
+[Round "-"]
+[White "Akaineco"]
+[Black "Parkour1"]
+[Result "1-0"]
+[UTCDate "2019.03.04"]
+[UTCTime "16:06:59"]
+[WhiteElo "2019"]
+[BlackElo "2105"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-15"]
+[BlackTitle "IM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 g6 3. Nf3 Bg7 4. Nc3 d6 5. Bb5+ Nc6 6. Bxc6+ bxc6 7. d3 c4 8. d4 Nf6 9. O-O Rb8 10. Qe2 Be6 11. Ng5 d5 12. Nxe6 fxe6 13. e5 Nd7 14. Na4 O-O 15. b3 cxb3 16. axb3 Qc7 17. Ba3 Rf7 18. Nc5 Nxc5 19. Bxc5 Ra8 20. Ra6 g5 21. Qg4 gxf4 22. Qxe6 Qc8 23. Qxc8+ Rxc8 24. Rxa7 Bh6 25. Rxe7 Rxe7 26. Bxe7 Kf7 27. Bd6 Ke6 28. g3 Rg8 29. Kg2 Kf5 30. e6 Kxe6 31. Bxf4 Bg7 32. Re1+ Kd7 33. Be5 Bh6 34. c4 Ra8 35. cxd5 cxd5 36. Re2 Ra3 37. Rc2 Rxb3 38. Rc7+ Kd8 39. Rxh7 Be3 40. Kh3 Bg1 41. Kg4 Bxd4 42. Bxd4 Rb4 43. Kf5 Rxd4 44. Ke5 Rd2 45. h4 Ke8 46. Rh6 Ke7 47. Rh7+ Kf8 48. Kf6 Kg8 49. Rd7 d4 50. g4 d3 51. Kg6 Kf8 52. h5 Rd1 53. g5 d2 54. h6 Ke8 55. Rd3 Ke7 56. h7 Rh1 57. Rxd2 Ke6 58. Re2+ Kd7 59. Kg7 Rh5 60. g6 Re5 61. h8=Q Rxe2 62. Qf8 Re7+ 63. Qf7 Kd6 64. Qxe7+ Kxe7 65. Kh7 Kf8 66. g7+ Ke7 67. g8=Q Kd7 68. Qf8 Kc6 69. Kg7 Kd5 70. Qe8 Kd4 71. Kf6 Kc4 72. Qe5 Kb4 73. Qd5 Ka3 74. Qb7 Ka2 75. Ke5 Ka1 76. Kd4 Ka2 77. Kc3 Ka3 78. Qb3# 1-0
+
+
