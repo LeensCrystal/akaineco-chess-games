@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XTEaiEHt"]
+[Date "2020.05.28"]
+[Round "-"]
+[White "Akaineco"]
+[Black "Lufidu"]
+[Result "1-0"]
+[UTCDate "2020.05.28"]
+[UTCTime "07:52:01"]
+[WhiteElo "2182"]
+[BlackElo "2291"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[BlackTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, Bonsch-Osmolovsky Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Ne7 4. Bc4 Ng6 5. h4 h5 6. d4 Be7 7. Qd3 d6 8. Bd2 Nxh4 9. Bxf4 Bg4 10. Nxh4 Bxh4+ 11. g3 Bf6 12. Nd2 Nc6 13. c3 Qe7 14. Nf3 O-O-O 15. O-O-O Kb8 16. Rde1 g6 17. Bb5 Bd7 18. e5 dxe5 19. Nxe5 Nxe5 20. Bxe5 Bxb5 21. Qxb5 Rhe8 22. Bxf6 Qxf6 23. Rxe8 c6 24. Rxd8+ 1-0
+
+
