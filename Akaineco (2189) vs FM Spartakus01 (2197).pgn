@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GEHUEzPN"]
+[Date "2020.06.09"]
+[Round "-"]
+[White "Akaineco"]
+[Black "Spartakus01"]
+[Result "1-0"]
+[UTCDate "2020.06.09"]
+[UTCTime "17:17:25"]
+[WhiteElo "2189"]
+[BlackElo "2197"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[BlackTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 g6 4. Bb5 Bg7 5. Bxc6 dxc6 6. d3 Nf6 7. Nc3 O-O 8. O-O Bg4 9. h3 Bxf3 10. Qxf3 b6 11. Bd2 Nd7 12. e5 e6 13. Ne4 Qe7 14. Nd6 Bxe5 15. Nc4 Bg7 16. Qxc6 Nf6 17. Bc3 Qd7 18. Qxd7 Nxd7 19. Bxg7 Kxg7 20. Rae1 b5 21. Ne5 Nxe5 22. Rxe5 Rac8 23. Rfe1 Rfd8 24. R1e4 a6 25. b3 Kf6 26. g4 h6 27. h4 Rd4 28. g5+ hxg5 29. hxg5+ Ke7 30. Kf2 Rxe4 31. Rxe4 Rh8 32. Re2 Rh2+ 33. Ke3 Rxe2+ 34. Kxe2 Kd6 35. c3 e5 36. Ke3 exf4+ 37. Kxf4 Kd5 38. a4 bxa4 39. bxa4 a5 40. Ke3 Ke5 41. d4+ cxd4+ 42. cxd4+ Kf5 43. d5 Kxg5 44. Kd4 Kf6 45. Kc5 Ke7 46. Kb6 Kd6 47. Kxa5 Kxd5 48. Kb6 g5 49. a5 g4 50. a6 g3 51. a7 g2 52. a8=Q+ Ke5 53. Qxg2 f5 54. Qf3 f4 55. Kb5 Kf5 56. Kc4 Ke5 57. Kd3 Kf5 58. Kd4 Kg5 59. Ke4 Kh4 60. Qxf4+ Kh3 61. Qg5 Kh2 62. Kf3 Kh1 63. Qg2# 1-0
+
+
