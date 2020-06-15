@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cgiLWCuW"]
+[Date "2020.06.15"]
+[Round "-"]
+[White "Akaineco"]
+[Black "Kleinseelheim"]
+[Result "1-0"]
+[UTCDate "2020.06.15"]
+[UTCTime "18:18:41"]
+[WhiteElo "2232"]
+[BlackElo "2277"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[BlackTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Opening "French Defense: Pelikan Variation"]
+[Termination "Normal"]
+
+1. e4 e6 2. f4 d5 3. Nc3 d4 4. Nb1 Nf6 5. d3 c5 6. Nf3 Nc6 7. a4 Be7 8. Na3 O-O 9. Nc4 b6 10. Be2 Ba6 11. Nce5 Nxe5 12. Nxe5 Nd7 13. Nxd7 Qxd7 14. b3 f5 15. Bf3 Bb7 16. exf5 Bxf3 17. Qxf3 exf5 18. O-O Bd6 19. Bd2 Kh8 20. Rae1 Rae8 21. Rxe8 Rxe8 22. Re1 Rxe1+ 23. Bxe1 h6 24. Qd5 Qe7 25. Kf1 Bxf4 26. Qf3 Qg5 27. g3 Be3 28. a5 Qg4 29. Qxg4 fxg4 30. axb6 axb6 31. Ke2 Kh7 32. Bf2 Bxf2 33. Kxf2 Kg6 34. Ke2 Kf5 35. Kf2 h5 36. Ke2 Ke5 37. Kd2 Kd5 38. Kc1 g5 39. Kb2 b5 40. Ka3 Ke5 41. b4 c4 42. dxc4 bxc4 43. b5 d3 44. cxd3 cxd3 45. Kb2 Ke4 46. Kc1 Ke3 47. Kd1 Kf2 48. b6 Kg2 49. b7 Kxh2 50. b8=Q Kh3 51. Kd2 h4 52. Kxd3 hxg3 53. Ke2 Kg2 54. Qb7+ Kg1 55. Qe4 g2 56. Qxg4 Kh1 57. Qh3+ Kg1 58. Kf3 g4+ 59. Qxg4 Kf1 60. Qxg2+ Ke1 61. Qe2# 1-0
+
+
