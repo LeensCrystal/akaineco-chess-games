@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1achqQZd"]
+[Date "2020.06.19"]
+[Round "-"]
+[White "AndreyNeves"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2020.06.19"]
+[UTCTime "21:11:47"]
+[WhiteElo "2203"]
+[BlackElo "2226"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[WhiteTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 f5 5. Be2 Bd6 6. O-O Nf6 7. b3 Qe7 8. a4 O-O 9. Ba3 Bd7 10. Bxd6 Qxd6 11. Ne5 Be8 12. Nc3 Nbd7 13. f4 Qb4 14. Qc2 Bg6 15. Nxg6 hxg6 16. a5 Qe7 17. c5 a6 18. b4 Kf7 19. Bf3 Rh8 20. h3 Ne4 21. Bxe4 dxe4 22. Qf2 Nf6 23. Rad1 Nd5 24. Nxd5 exd5 25. Qg3 Rh5 26. Kf2 Rah8 27. Ke2 Ke6 28. Rh1 g5 29. fxg5 Rxg5 30. Qe5+ Kf7 31. Qxe7+ Kxe7 32. Rdf1 Rxg2+ 33. Rf2 Rxf2+ 34. Kxf2 g5 35. Kg3 Kf6 36. Rf1 Kg6 37. Rf2 Rf8 38. Rf1 Kh5 39. Rf2 f4+ 40. Kh2 Kh4 41. Rg2 fxe3 42. Rg4+ Kh5 43. Rg3 Rf3 0-1
+
+
