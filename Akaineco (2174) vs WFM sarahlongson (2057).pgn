@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oEFoJZWd"]
+[Date "2020.07.06"]
+[Round "-"]
+[White "Akaineco"]
+[Black "sarahlongson"]
+[Result "1-0"]
+[UTCDate "2020.07.06"]
+[UTCTime "19:56:43"]
+[WhiteElo "2174"]
+[BlackElo "2057"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[BlackTitle "WFM"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C36"]
+[Opening "King's Gambit Accepted, Abbazia Defense"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bc4 Nxd5 6. Bxd5 Qxd5 7. Nc3 Qe6+ 8. Kf2 Qb6+ 9. d4 Be7 10. Nd5 Qa6 11. Nxc7+ 1-0
+
+
