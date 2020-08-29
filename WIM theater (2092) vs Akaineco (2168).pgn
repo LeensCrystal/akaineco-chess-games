@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/X39MYFwL"]
+[Date "2020.08.26"]
+[White "theater"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2020.08.26"]
+[UTCTime "12:33:05"]
+[WhiteElo "2092"]
+[BlackElo "2168"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[WhiteTitle "WIM"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "D58"]
+[Opening "Queen's Gambit Declined: Tartakower Defense"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 b6 8. Ne5 Bb7 9. cxd5 Nxd5 10. Bxe7 Qxe7 11. Bd3 Nxc3 12. bxc3 Nd7 13. Nxd7 Qxd7 14. O-O Rac8 15. Qh5 c5 16. Rac1 Qe7 17. f4 cxd4 18. cxd4 Qa3 19. Rxc8 Rxc8 20. Bb1 Rc1 21. Qe2 Ba6 0-1
+
+
