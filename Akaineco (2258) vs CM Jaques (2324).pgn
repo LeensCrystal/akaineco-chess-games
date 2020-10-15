@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6Qz78lky"]
+[Date "2020.10.06"]
+[White "Akaineco"]
+[Black "Jaques"]
+[Result "1/2-1/2"]
+[UTCDate "2020.10.06"]
+[UTCTime "09:30:24"]
+[WhiteElo "2258"]
+[BlackElo "2324"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[BlackTitle "CM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 d6 3. Nf3 a6 4. a4 b6 5. Bc4 Bb7 6. Nc3 Nd7 7. d3 Qc7 8. O-O e6 9. f5 exf5 10. Nd5 Bxd5 11. Bxd5 O-O-O 12. exf5 Ne5 1/2-1/2
+
+
