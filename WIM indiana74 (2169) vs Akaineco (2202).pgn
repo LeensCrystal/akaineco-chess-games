@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZycZ5XJG"]
+[Date "2020.01.13"]
+[White "indiana74"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2020.01.13"]
+[UTCTime "11:30:31"]
+[WhiteElo "2169"]
+[BlackElo "2202"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[WhiteTitle "WIM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A27"]
+[Opening "English Opening: King's English Variation, Three Knights System"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Bb4 4. Nd5 Bc5 5. g3 d6 6. Bg2 f5 7. O-O Nf6 8. d3 O-O 9. Bg5 Be6 10. Bxf6 gxf6 11. a3 Bxd5 12. cxd5 Ne7 13. b4 Bb6 14. Qb3 Qe8 15. a4 a5 16. Nd2 Qf7 17. Nc4 Ba7 18. Nxa5 f4 19. Rac1 fxg3 20. hxg3 Qg7 21. e3 Nf5 22. Nxb7 Nxg3 23. fxg3 Bxe3+ 24. Rf2 Bxc1 25. Kf1 Qxg3 26. Qc2 Be3 27. Rf3 Qg5 28. a5 Rfb8 29. Qc6 Ra7 30. a6 h5 31. Qxc7 Rf8 32. Bh3 Qg1+ 33. Ke2 Bg5 34. Qxd6 Qh2+ 35. Kf1 e4 36. dxe4 Qxd6 37. Nxd6 Rxa6 38. Nf5 Ra1+ 39. Kg2 Ra2+ 40. Kf1 Kh7 41. d6 Rc8 42. d7 Rc1# 0-1
+
+
