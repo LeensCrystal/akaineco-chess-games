@@ -1,0 +1,22 @@
+[Event "Bullet Shield Arena"]
+[Site "https://lichess.org/viADPD50"]
+[Date "2020.09.07"]
+[White "imnow"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2020.09.07"]
+[UTCTime "16:16:32"]
+[WhiteElo "2316"]
+[BlackElo "2120"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[WhiteTitle "WGM"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 e6 3. g3 Bd6 4. Bg2 Nf6 5. O-O O-O 6. Bf4 Bxf4 7. gxf4 Ne4 8. e3 c6 9. Nbd2 Nxd2 10. Qxd2 b6 11. Ne5 Ba6 12. Nd3 Bxd3 13. Qxd3 Nd7 14. f5 exf5 15. Qxf5 Nf6 16. Kh1 Qd7 17. Bh3 Qxf5 18. Bxf5 g6 19. Bd3 Rfe8 20. c3 Ne4 21. a4 a5 22. Bxe4 Rxe4 23. Kg2 Rae8 24. b4 f5 25. bxa5 bxa5 26. Rab1 f4 27. exf4 Rxf4 28. Rb6 Rf6 29. f4 Re4 30. Kg3 Kg7 31. Rf3 Re1 32. Ra6 Rg1+ 33. Kf2 Rh1 34. Kg2 Rb1 35. Rxa5 Rb2+ 36. Kg3 Rc2 37. Ra7+ Kh6 38. Kg4 Rf5 39. Rh3+ Rh5 40. Rxh5+ gxh5+ 41. Kf5 Ra2 42. a5 h4 43. a6 h3 44. Kf6 Rxh2 45. Rc7 Rf2 46. Rxc6 Rxf4+ 47. Ke5+ Kg5 48. a7 Rf8 49. Ra6 Ra8 50. Ra1 Kg4 51. Rg1+ Kf3 52. Kxd5 h2 53. Rh1 Kg2 54. Rxh2+ Kxh2 55. c4 h5 56. c5 h4 57. c6 h3 58. c7 Kg3 59. Kc6 h2 60. d5 h1=Q 61. Kd6 Qh6+ 62. Kd7 Qa6 63. d6 Qxa7 64. Ke7 Qb7 65. Kd7 Rc8 66. Ke7 Rxc7+ 67. d7 Rxd7+ 68. Ke8 Qc7 69. Kf8 Rd8# 0-1
+
+
