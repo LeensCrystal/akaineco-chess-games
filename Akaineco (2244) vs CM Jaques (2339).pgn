@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OOlT9vLN"]
+[Date "2020.10.05"]
+[White "Akaineco"]
+[Black "Jaques"]
+[Result "1-0"]
+[UTCDate "2020.10.05"]
+[UTCTime "07:10:30"]
+[WhiteElo "2244"]
+[BlackElo "2339"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[BlackTitle "CM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 d5 3. Nc3 dxe4 4. Nxe4 Nc6 5. Nf3 Nf6 6. Nxf6+ exf6 7. Bb5 Bd7 8. Qe2+ Qe7 9. Qxe7+ Bxe7 10. O-O O-O 11. d3 a6 12. Bc4 b5 13. Bb3 Rfe8 14. a4 Na5 15. Ba2 c4 16. Bd2 cxd3 17. Bxa5 dxc2 18. Bb3 Rac8 19. Rfc1 Bf5 20. Bc3 b4 21. Bd4 Bd6 22. g3 Re2 23. Bf2 Be4 24. Nd4 Rd2 25. Kf1 Bd3+ 26. Ke1 Rd1+ 27. Rxd1 cxd1=Q+ 28. Rxd1 Be4 29. Be3 h5 30. Rc1 Re8 31. Kf2 f5 32. Rd1 h4 33. Bc2 g6 34. Bxe4 fxe4 35. b3 hxg3+ 36. hxg3 f5 37. Nc6 Bf8 38. Ne5 Kh7 39. Rd6 Rc8 40. Rd2 Rc3 41. Nd7 Be7 42. Bd4 Rxb3 43. Nf6+ Bxf6 44. Bxf6 Kg8 45. a5 Ra3 46. Bd8 b3 47. Ke2 Ra2 48. Bf6 e3 49. Rxa2 bxa2 50. Kxe3 Kf7 51. Ba1 Ke6 52. Kd2 Kd5 53. Kc2 Ke4 54. Kb3 Kf3 55. Kxa2 Kxg3 56. Be5 g5 57. fxg5+ Kg4 58. g6 f4 59. g7 f3 60. Bd4 f2 61. Bxf2 Kf3 62. g8=Q Ke4 63. Qb8 Kd3 64. Qb6 Ke2 65. Qxa6+ Kf3 66. Qb6 Ke2 67. a6 Kd2 68. Qb4+ Kc2 69. Qb3+ Kc1 70. Be3# 1-0
+
+
