@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TvYyldsU"]
+[Date "2020.09.24"]
+[White "coachraven"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2020.09.24"]
+[UTCTime "18:14:12"]
+[WhiteElo "2389"]
+[BlackElo "2258"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[WhiteTitle "IM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Nc3 f5 5. Bf4 Nf6 6. e3 Be7 7. Be2 O-O 8. O-O Bd7 9. Qb3 Qb6 10. c5 Qxb3 11. axb3 a6 12. b4 Be8 13. b5 cxb5 14. Nxb5 Bxb5 15. Bxb5 Nc6 16. Bxc6 bxc6 17. Ne5 Rfc8 18. f3 h6 19. Ra2 g5 20. Bg3 Bd8 21. Rfa1 a5 22. b4 Kf8 23. bxa5 Ra6 24. Nd7+ Nxd7 25. Bd6+ Be7 26. Bg3 Rca8 27. Be1 e5 28. Bc3 e4 29. Kf2 Bd8 30. Ke2 Bc7 31. fxe4 fxe4 32. h3 Kg7 33. Rb1 R8a7 34. g4 Bd8 35. Kf2 Kf7 36. Kg2 Ke7 37. Rf1 Bc7 38. Bb4 Ra8 39. Bc3 Rf8 40. Rb1 Rf3 41. Rb7 Kd8 42. Re2 Kc8 43. Rb1 Rg3+ 44. Kf2 Rf3+ 45. Kg2 Nf6 46. Be1 h5 47. gxh5 Nxh5 48. Reb2 Nf6 49. Rb3 g4 50. h4 Nh5 51. Rb7 Bxa5 52. Rb8+ Kd7 53. Bxa5 Rxa5 54. R1b7+ Ke6 55. Re8+ Kf5 56. Rf8+ Nf6 57. Rb2 Ra1 58. h5 Kg5 59. h6 Kxh6 60. Rf7 Kg6 61. Rc7 Raf1 62. Rxc6 g3 63. Rd6 R1f2+ 64. Rxf2 gxf2 65. Kf1 Kg5 66. c6 Ng4 67. Rxd5+ Kh4 68. Rf5 Rxf5 69. Ke2 Rf8 70. Kd2 f1=Q 71. d5 Qd3+ 72. Kc1 Qxd5 73. Kc2 Qxc6+ 74. Kb3 Rd8 75. Kb4 Rb8+ 0-1
+
+
