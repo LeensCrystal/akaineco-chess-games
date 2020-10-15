@@ -1,0 +1,22 @@
+[Event "Hourly SuperBlitz Arena"]
+[Site "https://lichess.org/qOKTygba"]
+[Date "2020.06.29"]
+[White "Akaineco"]
+[Black "kukola"]
+[Result "1-0"]
+[UTCDate "2020.06.29"]
+[UTCTime "21:42:33"]
+[WhiteElo "2199"]
+[BlackElo "2041"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[BlackTitle "WCM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. f4 d6 3. Nf3 Nf6 4. Bb5+ Bd7 5. Bxd7+ Nbxd7 6. d3 e6 7. O-O Be7 8. c4 O-O 9. Nc3 Rb8 10. b3 a6 11. Bb2 b5 12. Kh1 Re8 13. e5 dxe5 14. Nxe5 Nxe5 15. fxe5 Nd7 16. Ne4 Bf8 17. Qf3 Qe7 18. Nd6 Red8 19. Qxf7+ Qxf7 20. Nxf7 Rdc8 21. Nd6 Bxd6 22. exd6 bxc4 23. dxc4 Re8 24. Rae1 Rb6 25. h4 Rxd6 26. h5 Rd2 27. Bc3 Rxa2 28. h6 gxh6 29. Ra1 Rxa1 30. Rxa1 Ra8 31. Rd1 Rd8 32. Rd6 Kf7 33. Ba5 Ke7 34. Rxa6 Rf8 35. Ra7 Rf1+ 36. Kh2 Rb1 37. Bb6 Rxb3 38. Bxc5+ Kd8 39. Bd6 Nb6 40. c5 Nc8 41. Rxh7 Nxd6 42. cxd6 Rd3 43. d7 Rxd7 44. Rxh6 Re7 45. Kg3 Kd7 46. Kf4 Rg7 47. g4 Rf7+ 48. Ke5 Rg7 49. Rh4 Rg5+ 50. Ke4 Rg7 51. Kf4 Kd6 52. g5 e5+ 53. Kf5 Kd5 54. g6 e4 55. Rh7 Rg8 56. Rd7+ Kc6 57. Rd1 e3 58. Kf6 Kc5 59. Kf7 Rb8 60. g7 Rb7+ 61. Kf6 Rb6+ 62. Kf5 Rb8 63. Ke4 Kc4 64. Kxe3 Rg8 65. Rg1 Kd5 66. Kf4 Ke6 67. Kg5 Kf7 68. Kh6 Rxg7 69. Rxg7+ Kf6 70. Rg6+ Kf5 71. Rg7 Kf6 72. Rg8 Kf5 73. Kh7 Ke5 74. Rh8 Kd4 75. Rf8 Kc5 76. Re8 Kd4 77. Re1 Kc5 78. Rd1 1-0
+
+
