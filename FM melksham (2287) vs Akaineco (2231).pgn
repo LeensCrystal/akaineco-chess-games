@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JzTCwH7v"]
+[Date "2020.09.21"]
+[White "melksham"]
+[Black "Akaineco"]
+[Result "1/2-1/2"]
+[UTCDate "2020.09.21"]
+[UTCTime "10:32:44"]
+[WhiteElo "2287"]
+[BlackElo "2231"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[WhiteTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A18"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+[Termination "Time forfeit"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d6 4. g3 g6 5. Bg2 Bg7 6. Nge2 c5 7. O-O Nc6 8. d4 cxd4 9. Nxd4 a6 10. h3 O-O 11. Be3 Qc7 12. Rc1 Bd7 13. Nd5 Qd8 14. Nxc6 Bxc6 15. Nb6 Rb8 16. Qd3 Nd7 17. Nxd7 Qxd7 18. b3 Rfd8 19. Bb6 Rdc8 20. Rfd1 Bf8 21. c5 d5 22. exd5 exd5 23. Kh2 Re8 24. Rc2 Re5 25. f4 Re6 26. Bxd5 Bxd5 27. Qxd5 Qxd5 28. Rxd5 Rbe8 29. Rdd2 h5 30. Kg2 h4 31. g4 Re3 32. c6 Rg3+ 33. Kh2 bxc6 34. Rxc6 Bb4 35. Rdc2 Re1 36. Bd4 Re4 37. Rc8+ Bf8 38. Bc5 Rge3 39. Rxf8+ Kg7 40. Bxe3 Kxf8 41. Bc5+ Kg7 42. Rf2 f5 43. g5 a5 44. Bd6 a4 45. Be5+ Kf7 46. Rc2 axb3 47. axb3 Re3 48. Rb2 Ke6 49. b4 Kd7 50. b5 Kc8 51. b6 Kb7 52. Rc2 Re4 53. Bc7 Re3 54. Ra2 Rd3 55. Ra7+ Kc6 56. Ra2 Rd2+ 57. Rxd2 Kb7 58. Rd6 Kc8 59. Rxg6 Kb7 60. Rf6 Kc8 61. Rxf5 Kb7 62. Rf6 Kc8 63. Rh6 Kb7 64. Rxh4 Kc8 65. Rg4 Kb7 66. g6 Kc8 67. g7 Kb7 68. g8=Q Ka6 69. b7 Kxb7 1/2-1/2
+
+
