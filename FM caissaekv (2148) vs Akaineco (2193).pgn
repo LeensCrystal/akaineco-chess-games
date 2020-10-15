@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gEAfcud9"]
+[Date "2020.03.28"]
+[White "caissaekv"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2020.03.28"]
+[UTCTime "21:13:55"]
+[WhiteElo "2148"]
+[BlackElo "2193"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[WhiteTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 e6 3. e3 f5 4. Bd3 Nf6 5. O-O Bd6 6. b3 O-O 7. c4 c6 8. Nc3 Bd7 9. Ne5 Be8 10. f3 Nbd7 11. Nxd7 Nxd7 12. e4 Qh4 13. e5 Nxe5 14. dxe5 Bxe5 15. g3 Qd4+ 16. Kg2 Qxc3 17. Ba3 Qxa1 18. Qxa1 Bxa1 19. Bxf8 Kxf8 20. Rxa1 Ke7 21. c5 b6 22. b4 bxc5 23. bxc5 Rb8 24. Rb1 Rxb1 25. Bxb1 e5 26. Bxf5 Bg6 27. Bxg6 hxg6 28. Kf2 d4 29. Ke2 Ke6 30. Kd3 Kd5 31. h4 Kxc5 32. f4 exf4 33. gxf4 Kd5 0-1
+
+
