@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/W3LqDzQG"]
+[Date "2020.11.13"]
+[White "Akaineco"]
+[Black "VLABOR64B"]
+[Result "1-0"]
+[UTCDate "2020.11.13"]
+[UTCTime "12:20:08"]
+[WhiteElo "2216"]
+[BlackElo "2165"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[BlackTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C30"]
+[Opening "King's Gambit Declined: Classical Variation"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Bg4 5. h3 Bxf3 6. Qxf3 Nc6 7. Bb5 Ne7 8. Na4 Bb6 9. Nxb6 axb6 10. d3 O-O 11. Bxc6 Nxc6 12. O-O Nd4 13. Qf2 c5 14. Be3 Nc6 15. a3 d5 16. exd5 Qxd5 17. fxe5 Nxe5 18. Rae1 Ng6 19. Bd2 Rae8 20. Bc3 Qd7 21. Rxe8 Rxe8 22. Re1 f6 23. Rxe8+ Qxe8 24. Qe1 Qd7 25. Qe4 Kf7 26. Kf2 f5 27. Qe3 Qe6 28. Qxe6+ Kxe6 29. Kf3 Kf7 30. Bd2 Ke6 31. Bc3 Kf7 32. g3 h5 33. a4 h4 34. gxh4 Nxh4+ 35. Kf4 g6 36. Be5 Ng2+ 37. Kf3 Ne1+ 38. Ke2 Nxc2 39. Bc7 b5 40. axb5 Nd4+ 41. Ke3 Nxb5 42. Bb6 Ke6 43. Bxc5 Kd5 44. Bf8 Nd4 45. Bg7 Ne6 46. Bh8 b5 47. b3 Kd6 48. h4 Kd5 49. Kf3 Kc5 50. Bf6 Kb4 51. Be7+ 1-0
+
+
