@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ORv4LqQe"]
+[Date "2020.10.23"]
+[White "rudyLibanez"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2020.10.23"]
+[UTCTime "12:46:25"]
+[WhiteElo "2252"]
+[BlackElo "2258"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+6"]
+[WhiteTitle "NM"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Bc4 O-O 5. O-O Bxc3 6. dxc3 d6 7. Bg5 h6 8. Bxf6 Qxf6 9. h3 Be6 10. Bb3 Nc6 11. Qe2 b6 12. Bxe6 Qxe6 13. Nh4 Ne7 14. c4 f5 15. exf5 Nxf5 16. Nxf5 Rxf5 17. f3 Raf8 18. b3 Rf4 19. Rac1 Rd4 20. Rcd1 Rdf4 21. Rfe1 Qg6 22. Kh2 h5 23. Qd3 Qf6 24. Re4 h4 25. Qe3 Qg5 26. Rxf4 Qg3+ 27. Kh1 Rxf4 28. c3 e4 29. Rd4 exf3 30. Qe8+ Rf8 31. Qe6+ Kh7 32. Qe4+ Kg8 33. Qe6+ Kh8 34. gxf3 Qxf3+ 35. Kh2 Qf2+ 36. Kh1 Qf1+ 37. Kh2 Rf2# 0-1
+
+
