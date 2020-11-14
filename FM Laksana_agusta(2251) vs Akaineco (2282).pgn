@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MHpZQ1Tt"]
+[Date "2020.11.05"]
+[White "Laksana_agusta"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2020.11.05"]
+[UTCTime "18:36:33"]
+[WhiteElo "2251"]
+[BlackElo "2282"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[Termination "Normal"]
+
+1. e3 b6 2. d4 Ba6 3. Bxa6 Nxa6 4. f4 e6 5. Nf3 Nf6 6. O-O d5 7. Nbd2 c5 8. Ne5 Qc7 9. c3 Nb8 10. Ndf3 Nbd7 11. Nxd7 Nxd7 12. f5 O-O-O 13. fxe6 fxe6 14. Ng5 Bd6 15. Nxe6 Bxh2+ 16. Kh1 Qg3 17. Nxd8 Qh4 18. Rf3 Bg3+ 19. Kg1 Qh2+ 20. Kf1 Qh1+ 21. Ke2 Qxg2+ 22. Kd3 c4# 0-1
+
+
