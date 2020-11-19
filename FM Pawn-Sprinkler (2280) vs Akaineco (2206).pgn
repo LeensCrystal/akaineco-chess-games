@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/i3rOrSsD"]
+[Date "2020.11.19"]
+[White "Pawn-Sprinkler"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2020.11.19"]
+[UTCTime "15:35:19"]
+[WhiteElo "2280"]
+[BlackElo "2206"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[WhiteTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Ne4 5. Bg2 f5 6. O-O c6 7. Nc3 Bd6 8. Nd2 O-O 9. f3 Nxc3 10. bxc3 f4 11. g4 e5 12. Qb3 Qb6 13. cxd5 Qxb3 14. axb3 cxd5 15. Bb2 Nc6 16. Rfe1 exd4 17. cxd4 Bd7 18. Bf1 Rfe8 19. Rec1 Bb4 20. Rc2 h5 21. h3 hxg4 22. hxg4 Kf7 23. Bc3 Bd6 24. Kf2 Rg8 25. e4 fxe3+ 26. Kxe3 Rge8+ 27. Kf2 Bf4 28. Bd3 Be3+ 29. Kg3 Nxd4 30. Bxd4 Bxd4 31. Ra4 Bb6 32. Rf4+ Kg8 33. Kg2 Rac8 34. Nf1 Rxc2+ 35. Bxc2 Re2+ 0-1
+
+
