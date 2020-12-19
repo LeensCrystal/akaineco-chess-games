@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZpOh8QoB"]
+[Date "2020.12.08"]
+[White "RandomOracle"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2020.12.08"]
+[UTCTime "12:15:52"]
+[WhiteElo "2371"]
+[BlackElo "2224"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[WhiteTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+[Termination "Time forfeit"]
+
+1. c4 e5 2. Nc3 Bb4 3. Nd5 Bc5 4. e3 a5 5. Nf3 Nc6 6. d4 exd4 7. exd4 Bb4+ 8. Nxb4 axb4 9. d5 Nce7 10. d6 cxd6 11. Qxd6 Ra6 12. Qxb4 Nf6 13. Bd3 O-O 14. O-O Nc6 15. Qc3 d5 16. Bg5 d4 17. Qd2 h6 18. Bh4 Qd6 19. a3 Bg4 20. Bg3 Qd7 21. Ne5 Nxe5 22. Bxe5 Re6 23. f4 Re7 24. Rfe1 Ne8 25. Bc2 Bf5 26. Bxf5 Qxf5 27. Bxd4 Rd7 28. Qf2 Nd6 29. c5 Nb5 30. Be3 Rfd8 31. h3 Nc7 32. b4 Nd5 33. Bd2 Nf6 34. Be3 Ne4 35. Qf3 Nc3 36. g4 Qd3 37. Kg2 Qc2+ 38. Qf2 Qb3 39. f5 Ne4 40. Qf3 Rd3 41. Qxe4 h5 42. g5 h4 43. g6 fxg6 44. fxg6 Qd5 45. Qxd5+ R3xd5 46. Bf4 Rf5 47. Re4 Rdf8 48. Rf1 Rd5 49. Be3 Rdf5 50. Rxf5 Rxf5 51. Re8+ Rf8 52. Rxf8+ Kxf8 53. b5 Ke7 54. c6 bxc6 55. b6 Kd7 56. a4 Kc8 57. a5 Kb7 58. Bg5 Ka6 59. Bxh4 Kxa5 60. Bf6 Kxb6 61. Bxg7 c5 62. Bf8 c4 0-1
+
+
