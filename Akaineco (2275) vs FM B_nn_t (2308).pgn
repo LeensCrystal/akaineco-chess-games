@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BvYByG20"]
+[Date "2020.12.15"]
+[White "Akaineco"]
+[Black "B_nn_t"]
+[Result "1-0"]
+[UTCDate "2020.12.15"]
+[UTCTime "08:51:28"]
+[WhiteElo "2275"]
+[BlackElo "2308"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[BlackTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 g6 3. Nf3 Bg7 4. Nc3 e6 5. e5 Ne7 6. Ne4 O-O 7. Nxc5 d5 8. d4 b6 9. Nb3 a5 10. c3 Ba6 11. Bxa6 Nxa6 12. Qe2 Qc7 13. Bd2 a4 14. Nc1 Rfb8 15. Nd3 b5 16. O-O Nc6 17. a3 Na5 18. Rad1 Nc4 19. Be1 Rb7 20. Bh4 Nb8 21. Bf6 Nd7 22. Bxg7 Kxg7 23. Nb4 Rh8 24. Rb1 Na5 25. Ne1 Qc4 26. Qxc4 bxc4 27. h3 Nb3 28. Rd1 h5 29. Nf3 Kf8 30. Ng5 Ke7 31. Rf2 Nf8 32. g3 Nh7 33. Nxh7 Rxh7 34. Kg2 Kd7 35. Rdf1 Kc7 36. g4 Kb6 37. f5 hxg4 38. hxg4 gxf5 39. gxf5 Rg7+ 40. Kf3 Rb8 41. Ke2 Rbg8 42. fxe6 fxe6 43. Rf6 Rg2+ 44. R1f2 Rxf2+ 45. Kxf2 Re8 46. Nxd5+ Kc6 47. Nb4+ Kb5 48. Rf7 Nc1 49. Rb7+ Ka5 50. Rd7 Nd3+ 51. Nxd3 cxd3 52. Ke3 Kb5 53. Kxd3 1-0
+
+
