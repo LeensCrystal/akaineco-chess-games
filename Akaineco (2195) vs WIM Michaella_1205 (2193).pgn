@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/88A7y6LE"]
+[Date "2021.01.11"]
+[White "Akaineco"]
+[Black "Michaella_1205"]
+[Result "1-0"]
+[UTCDate "2021.01.11"]
+[UTCTime "15:11:04"]
+[WhiteElo "2195"]
+[BlackElo "2193"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Canal Attack, Main Line"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Re1 e5 7. c3 c4 8. Na3 Rc8 9. Qe2 Qc7 10. d4 cxd3 11. Qxd3 Be7 12. Bg5 O-O 13. Rad1 a6 14. Nc4 Nc5 15. Qc2 Rfd8 16. Bxf6 Bxf6 17. Ne3 Ne6 18. Nd5 Qc6 19. Nxf6+ gxf6 20. Qd2 Kh8 21. Qh6 Rg8 22. Qxf6+ Rg7 23. h4 Nf4 24. Ng5 d5 25. Qxe5 Ng6 26. Qxd5 Nxh4 27. Nxf7+ Kg8 28. Qxc6 bxc6 29. Ne5 Nxg2 30. Kf1 Nxe1 31. Kxe1 Re8 32. f4 c5 33. Kf2 Rb7 34. b3 Rf8 35. Rg1+ Kh8 36. Ke3 a5 37. Rh1 Kg7 38. Nc4 a4 39. bxa4 Re7 40. Nd6 Rb8 41. Nf5+ Kf7 42. Nxe7 Kxe7 43. Rxh7+ Kd6 44. Rh5 Rb2 45. Rd5+ Kc6 46. f5 Rxa2 47. f6 Rxa4 48. f7 Ra8 49. Rf5 Rf8 50. Kd3 Kd6 51. Kc4 Ke6 52. Kxc5 Rc8+ 53. Kd4 Rd8+ 54. Ke3 Ke7 55. f8=Q+ Rxf8 56. Rxf8 Kxf8 57. Kd4 Ke7 58. Kd5 Kd7 59. c4 Ke7 60. c5 Kd7 61. c6+ Kc7 62. Kc5 Kc8 63. Kd6 Kd8 64. e5 Ke8 65. e6 Kd8 66. e7+ Kc8 67. e8=Q# 1-0
+
+
