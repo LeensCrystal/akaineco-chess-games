@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/C1fBKm0R"]
+[Date "2021.01.20"]
+[White "Lefleau"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2021.01.20"]
+[UTCTime "11:54:06"]
+[WhiteElo "2230"]
+[BlackElo "2237"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[WhiteTitle "IM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Opening "Russian Game: Urusov Gambit"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. c3 d5 5. Bb3 Nc6 6. O-O Be7 7. d3 Nf6 8. Re1 Bg4 9. h3 Bh5 10. g4 Bg6 11. Nxe5 Nxe5 12. Rxe5 O-O 13. Re1 c6 14. Bf4 Bd6 15. Qd2 Qc7 16. Bxd6 Qxd6 17. Qg5 h6 18. Qd2 Rfe8 19. Na3 Re6 20. Nc2 Rae8 21. Nd4 Rxe1+ 22. Rxe1 Rxe1+ 23. Qxe1 Qf4 24. Bc2 c5 25. Ne2 Qf3 26. Kh2 Bxd3 27. Bxd3 Qxd3 28. Nf4 Qf3 29. Qe3 Qxe3 30. fxe3 Kf8 31. Kg3 Ke7 32. Kf3 g5 33. Nd3 Kd6 34. Nf2 b5 35. Nd3 Ne4 36. Nf2 Nxf2 37. Kxf2 Ke5 38. Kf3 b4 39. cxb4 cxb4 40. a3 a5 41. axb4 axb4 42. Ke2 Ke4 43. Kd2 f5 44. gxf5 Kxf5 45. Kd3 h5 46. Kd4 Ke6 47. e4 dxe4 48. Kxe4 g4 49. hxg4 hxg4 50. Kf4 Kd5 51. Kxg4 Kc4 52. Kf3 Kb3 0-1
+
+
