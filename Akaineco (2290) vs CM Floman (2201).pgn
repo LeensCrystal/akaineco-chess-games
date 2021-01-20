@@ -1,0 +1,22 @@
+[Event "Elite SuperBlitz Arena"]
+[Site "https://lichess.org/T2K4RAo4"]
+[Date "2021.01.16"]
+[White "Akaineco"]
+[Black "Floman"]
+[Result "1-0"]
+[UTCDate "2021.01.16"]
+[UTCTime "17:21:56"]
+[WhiteElo "2290"]
+[BlackElo "2201"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[BlackTitle "CM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Gligoric Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5 8. Nb3 Qxd1 9. Rxd1 Bd7 10. Be3 b6 11. f3 O-O-O 12. Nc3 g5 13. Nd5 h5 14. a4 a5 15. Nd2 Rh6 16. Nc4 Ne7 17. c3 Nxd5 18. Rxd5 Be6 19. Rxd8+ Kxd8 20. Rd1+ Kc8 21. Nd2 Be7 22. Kf2 Rh8 23. c4 Rd8 24. Ke2 c6 25. Rc1 Bd6 26. h3 h4 27. b3 Be5 28. Rc2 Kc7 29. Nb1 Bf7 30. Rd2 Rxd2+ 31. Bxd2 Kd6 32. Bc3 Bg6 33. Bxe5+ Kxe5 34. Ke3 f5 35. Nc3 fxe4 36. Nxe4 Bxe4 37. fxe4 Ke6 38. Kf3 Ke5 39. Kg4 Kxe4 40. Kxg5 Kd4 41. Kxh4 Kc3 42. g4 Kxb3 43. g5 Kxa4 44. g6 b5 45. g7 b4 46. g8=Q b3 47. Qg1 Ka3 48. Qa1+ Kb4 49. Kg4 a4 50. h4 a3 51. h5 a2 52. h6 Kxc4 53. h7 Kb4 54. h8=Q c4 55. Qhc3+ Ka4 56. Qxc4+ Ka3 57. Qcc1+ Kb4 58. Qab2 c5 59. Qcc3+ 1-0
+
+
