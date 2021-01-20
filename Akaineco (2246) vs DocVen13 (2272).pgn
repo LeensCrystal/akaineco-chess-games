@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PqxDBqB2"]
+[Date "2021.01.12"]
+[White "Akaineco"]
+[Black "DocVen13"]
+[Result "1-0"]
+[UTCDate "2021.01.12"]
+[UTCTime "20:54:06"]
+[WhiteElo "2246"]
+[BlackElo "2272"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Hyperaccelerated Fianchetto"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. Nc3 Nc6 6. Qa4 d6 7. Bb5 Bd7 8. e5 Nxe5 9. Nxe5 dxe5 10. Be3 a6 11. Bxd7+ Qxd7 12. Qh4 Bg7 13. Rd1 Qc6 14. O-O O-O 15. Bh6 Rfd8 16. Bxg7 Kxg7 17. Qg3 e4 18. Qe5 Qe6 19. Qxe6 fxe6 20. Rxd8 Rxd8 21. Rd1 Rxd1+ 22. Nxd1 Nd5 23. c3 Kf6 24. Kf1 Ke5 25. g3 b5 26. Ke2 h5 27. h4 Nb6 28. Ne3 a5 29. b3 a4 30. Nd1 axb3 31. axb3 Nd5 32. c4 bxc4 33. bxc4 Nb6 34. c5 Nd5 35. Ne3 Nb4 36. Ng2 Nd3 37. Ke3 Nxc5 38. Nf4 Kf5 39. Ne2 e5 40. Nc3 e6 41. Ne2 Na4 42. Nc1 Nc3 43. Nb3 Nd5+ 44. Ke2 e3 45. f3 e4 46. Nd4+ Ke5 47. Nc6+ Kd6 48. Nd4 e5 49. Nc2 exf3+ 50. Kxf3 Ke6 51. Ke4 Nf6+ 52. Kxe3 Kf5 53. Kf3 e4+ 54. Kg2 Nd5 55. Kf2 Kg4 56. Nd4 e3+ 57. Kg2 Nc3 58. Nc2 e2 59. Ne3# 1-0
+
+
