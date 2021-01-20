@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/p4FfhuDo"]
+[Date "2020.04.26"]
+[White "tirumpu"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2020.04.26"]
+[UTCTime "13:46:21"]
+[WhiteElo "2194"]
+[BlackElo "2242"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[WhiteTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 e6 3. c4 c6 4. e3 f5 5. Nbd2 Nf6 6. Bd3 Be7 7. O-O O-O 8. Ne5 Bd7 9. b3 Be8 10. a4 Nbd7 11. Nxd7 Qxd7 12. Ba3 Bh5 13. Bxe7 Bxd1 0-1
+
+
