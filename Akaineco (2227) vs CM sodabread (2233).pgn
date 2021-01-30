@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DRWbL1YW"]
+[Date "2021.01.22"]
+[White "Akaineco"]
+[Black "sodabread"]
+[Result "1-0"]
+[UTCDate "2021.01.22"]
+[UTCTime "14:44:03"]
+[WhiteElo "2227"]
+[BlackElo "2233"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[BlackTitle "CM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Canal Attack, Main Line"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O g6 6. c3 Bg7 7. d4 cxd4 8. cxd4 Nf6 9. Re1 O-O 10. h3 Nc6 11. Nc3 d5 12. e5 Ne8 13. Be3 Nc7 14. Qd2 b5 15. a3 a5 16. Bh6 b4 17. Bxg7 bxc3 18. Qh6 Rfe8 19. Ng5 1-0
+
+
