@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tg9x1nsj"]
+[Date "2021.03.09"]
+[White "mozayr"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2021.03.09"]
+[UTCTime "14:28:45"]
+[WhiteElo "2333"]
+[BlackElo "2280"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 f5 5. b3 Nf6 6. Be2 Bd6 7. O-O Qe7 8. Bb2 O-O 9. Qc1 Bd7 10. Ba3 Be8 11. Bxd6 Qxd6 12. Qa3 Qxa3 13. Nxa3 Bh5 14. Nc2 Bxf3 15. Bxf3 Nbd7 16. c5 Ne4 17. Rfd1 e5 18. b4 a6 19. a4 g5 20. Bxe4 fxe4 21. dxe5 Nxe5 22. Nd4 Nd3 23. Ne6 Rf5 24. b5 Nxf2 25. Rf1 Re5 26. Nc7 Rc8 27. bxa6 bxa6 28. Nxa6 Nd3 29. Rab1 Ra8 30. Rb8+ Rxb8 31. Nxb8 Nxc5 32. Nxc6 Re6 33. Nb4 Nxa4 34. Nxd5 Rd6 35. Rf5 h6 36. Nf6+ Kh8 37. Nxe4 Rd1+ 38. Kf2 Nb2 39. Rf7 Kg8 40. Rb7 Nc4 41. Nf6+ Kf8 42. e4 Ne5 43. Ke3 Re1+ 44. Kd4 Ng6 45. Nd7+ Ke8 46. Nf6+ Kf8 47. Nd7+ Ke8 48. Nf6+ Kd8 49. Rg7 Rd1+ 50. Ke3 Ne7 51. e5 Re1+ 52. Kd4 Nc6+ 53. Kd5 Nb4+ 54. Kd6 Rd1+ 55. Ke6 Nc6 56. Rg8+ Kc7 57. Rg7+ Kb6 58. Ne8 Nd4+ 59. Kf6 Rf1+ 60. Ke7 Re1 61. e6 Re5 0-1
+
+
