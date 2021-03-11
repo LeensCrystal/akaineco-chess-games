@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fPu15v9V"]
+[Date "2021.02.01"]
+[White "Akaineco"]
+[Black "bagge89"]
+[Result "1-0"]
+[UTCDate "2021.02.01"]
+[UTCTime "15:19:59"]
+[WhiteElo "2218"]
+[BlackElo "2202"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[BlackTitle "CM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 c6 3. f4 d5 4. Nf3 Nf6 5. d3 dxe4 6. Nxe4 Nxe4 7. dxe4 Qxd1+ 8. Kxd1 Nd7 9. c3 Nf6 10. Bd3 Ng4 11. Ke2 Bc5 12. Rf1 f6 13. h3 Nh6 14. Be3 Bxe3 15. Kxe3 Bd7 16. e5 c5 17. Be4 Rb8 18. exf6 gxf6 19. Nd2 b5 20. Nb3 Rc8 21. Rfd1 Ke7 22. Rd2 Rc7 23. Rad1 Bc8 24. Rd6 Nf7 25. Rc6 Rxc6 26. Bxc6 a6 27. Nxc5 Nd6 28. b3 Rd8 29. Rd3 Nf5+ 30. Kf2 Rd6 31. Rxd6 Kxd6 32. Bb7 Bxb7 33. Nxb7+ Kc6 34. Na5+ Kd5 35. g4 Nd6 36. Ke3 e5 37. fxe5 fxe5 38. h4 Nf7 39. c4+ Kc5 40. cxb5 axb5 41. Ke4 Kb6 42. b4 Kc7 43. Nb3 Kd6 44. Nc5 Nd8 45. Nd3 Nc6 46. a3 Ke6 47. Nc5+ Kf6 48. Nd3 h6 49. g5+ hxg5 50. hxg5+ Kxg5 51. Nxe5 Ne7 52. Nd7 Kg6 53. Kd4 Kf7 54. Kc5 Ke6 55. Nb6 Nf5 56. Kxb5 Kd6 57. Nc4+ Kc7 58. Kc5 Nd4 59. a4 Nb3+ 60. Kd5 Kb7 61. b5 Ka7 62. a5 Kb7 63. Nd6+ Kc7 64. a6 Kb6 65. Kc4 Nc5 66. Nc8+ Kc7 67. a7 1-0
+
+
