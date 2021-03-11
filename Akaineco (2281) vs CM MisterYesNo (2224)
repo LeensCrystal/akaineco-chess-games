@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/C9UpACGD"]
+[Date "2021.02.16"]
+[White "Akaineco"]
+[Black "MisterYesNo"]
+[Result "1-0"]
+[UTCDate "2021.02.16"]
+[UTCTime "14:42:32"]
+[WhiteElo "2281"]
+[BlackElo "2224"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[BlackTitle "CM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Alapin Gambit"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Bc5 8. Be3 Bxe3 9. fxe3 Qe7 10. Qe1 O-O-O 11. hxg4 hxg4 12. Nc3 gxf3 13. Rxf3 Qg5 14. Qg3 Qh5 15. Qh3+ Qxh3 16. Rxh3 Rxh3 17. gxh3 g6 18. Rf1 Nh6 19. Kg2 Kd7 20. Ne2 c5 21. c3 Ke6 22. d4 cxd4 23. exd4 c6 24. Kf3 f5 25. exf5+ Nxf5 26. dxe5 Rd3+ 27. Kf2 Kxe5 28. Ke1 Rxh3 29. Rg1 Nh4 30. Rg5+ Ke4 31. Rg4+ Kf5 32. Rb4 b5 33. Nd4+ Ke4 34. Nxc6+ Ke3 35. Kd1 g5 36. Ne5 Nf3 37. Ng4+ Kd3 38. Nf2+ 1-0
+
+
