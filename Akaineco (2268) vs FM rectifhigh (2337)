@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZfgLlJ8O"]
+[Date "2021.03.09"]
+[White "Akaineco"]
+[Black "rectifhigh"]
+[Result "1/2-1/2"]
+[UTCDate "2021.03.09"]
+[UTCTime "10:22:22"]
+[WhiteElo "2268"]
+[BlackElo "2337"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[BlackTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Opening "French Defense: Pelikan Variation"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. f4 dxe4 4. Nxe4 c5 5. Nf3 Nh6 6. Bb5+ Bd7 7. Bxd7+ Nxd7 8. d3 Be7 9. O-O O-O 10. Be3 Nf5 11. Bf2 b6 12. g4 Nh4 13. Nxh4 Bxh4 14. Qf3 f5 15. gxf5 exf5 16. Ng3 Bxg3 17. hxg3 Nf6 18. Kg2 Ng4 19. Rfe1 Qd7 20. Re2 Rae8 21. Rae1 g6 22. Bg1 Kf7 23. b3 Rxe2+ 24. Qxe2 Re8 25. Qxe8+ Qxe8 26. Rxe8 Kxe8 27. Kf3 Kd7 28. c3 Kd6 29. d4 cxd4 30. Bxd4 Kd5 31. a4 Kc6 32. Ke2 a6 33. Kd3 b5 34. axb5+ axb5 35. c4 bxc4+ 36. bxc4 Nh2 37. Bf6 Ng4 38. Bd4 h6 39. Bg7 Kc5 40. Bf8+ Kc6 41. Bg7 Kc5 42. Bf8+ Kc6 43. Kd4 g5 44. fxg5 hxg5 45. Be7 f4 46. gxf4 gxf4 47. Ke4 Ne3 48. c5 Nd5 49. Bd6 Nb4 50. Bxf4 Kxc5 51. Bd6+ Kc4 52. Bxb4 1/2-1/2
+
+
