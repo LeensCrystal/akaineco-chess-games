@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zXaiZbDJ"]
+[Date "2021.02.10"]
+[White "Akaineco"]
+[Black "cubanoases"]
+[Result "1-0"]
+[UTCDate "2021.02.10"]
+[UTCTime "14:56:33"]
+[WhiteElo "2245"]
+[BlackElo "2339"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[BlackTitle "IM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B31"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. O-O Nf6 7. h3 Nd7 8. Bg5 h6 9. Be3 e5 10. Nbd2 Nf8 11. Nc4 Qc7 12. Bxc5 Ne6 13. Ba3 c5 14. Ne3 Nf4 15. Kh2 O-O 16. g3 Nxh3 17. Nd5 Qd7 18. Bxc5 Nf4 19. Nxf4 exf4 20. Ng1 Re8 21. gxf4 g5 22. Be3 Bxb2 23. Rb1 Bf6 24. Qf3 Kh7 25. e5 Bd8 26. Qh5 Rg8 27. Nf3 Qf5 28. Rg1 g4 29. Qxf5+ Bxf5 30. Nd4 Bd7 31. Rxb7 Be8 32. e6 Rg7 33. exf7 Bxf7 34. Nf5 1-0
+
+
