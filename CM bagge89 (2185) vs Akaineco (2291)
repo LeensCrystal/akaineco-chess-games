@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xSCeq1t2"]
+[Date "2021.02.18"]
+[White "bagge89"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2021.02.18"]
+[UTCTime "15:06:20"]
+[WhiteElo "2185"]
+[BlackElo "2291"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[WhiteTitle "CM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Bc4 Nc6 5. d3 d6 6. h3 h6 7. O-O Bxc3 8. bxc3 Be6 9. Bb3 O-O 10. Qe2 Re8 11. g4 d5 12. Kg2 Na5 13. g5 Nxb3 14. axb3 hxg5 15. Bxg5 Qd7 16. Rh1 Nh7 17. Nxe5 Qd6 18. Nf3 dxe4 19. dxe4 Nxg5 20. Nxg5 Bf5 21. Qf3 Bg6 22. h4 Qe5 23. b4 f6 24. Ra5 Bxe4 25. Nxe4 Qxe4 26. Qxe4 Rxe4 27. Kf3 Rc4 28. h5 Rxc3+ 29. Kf4 b6 30. h6 bxa5 31. hxg7 Kxg7 32. Kf5 Rb8 33. Rg1+ Kf7 34. f4 Rb5+ 35. Kg4 Rxb4 36. Rd1 Rcc4 37. Rd7+ Ke8 38. Rxc7 Rxc7 39. Kf5 Rxf4+ 40. Kxf4 Rxc2 41. Kf5 Rc8 42. Kxf6 a4 0-1
+
+
