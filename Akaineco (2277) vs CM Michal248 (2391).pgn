@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/C4luK3J9"]
+[Date "2021.04.05"]
+[White "Akaineco"]
+[Black "Michal248"]
+[Result "1-0"]
+[UTCDate "2021.04.05"]
+[UTCTime "10:34:13"]
+[WhiteElo "2277"]
+[BlackElo "2391"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[BlackTitle "CM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B31"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. Qe2 Bg7 6. c3 Bg4 7. h3 Bxf3 8. Qxf3 Nf6 9. O-O O-O 10. Re1 Qd7 11. Na3 Rad8 12. Nc2 Qd3 13. Qxd3 Rxd3 14. f3 Rfd8 15. Ne3 Bh6 16. Kf2 Bxe3+ 17. Rxe3 c4 18. Ke2 Nh5 19. Rxd3 Nf4+ 20. Kf2 Nxd3+ 21. Ke2 Nc5 22. Kd1 f5 23. exf5 gxf5 24. Kc2 Nd3 25. b3 Ne1+ 26. Kd1 Nxg2 27. Ba3 e5 28. Ke2 Nf4+ 29. Kd1 Nxh3 30. bxc4 e4 31. fxe4 fxe4 32. Kc2 Kf7 33. Rh1 Ng5 34. Bc5 b6 35. Be3 Kf6 36. Rh6+ Kf5 37. Bxg5 Kxg5 38. Rxh7 a5 39. Rb7 Kf4 40. Rxb6 Kf3 41. Rxc6 Ke2 42. Re6 Rxd2+ 43. Kb3 Kf3 44. c5 e3 45. c6 Rd8 46. Kc4 e2 47. Kc5 Kf2 48. c7 Rc8 49. Kb6 e1=Q 50. Rxe1 Kxe1 51. c4 Rxc7 52. Kxc7 a4 53. Kb6 Kd2 54. c5 Kc3 55. Kb5 Kb2 56. Kxa4 Kxa2 57. c6 Kb2 58. c7 Ka2 59. c8=Q Kb2 60. Qh3 Ka2 61. Qh2+ Kb1 62. Kb3 Kc1 63. Qc2# 1-0
+
+
