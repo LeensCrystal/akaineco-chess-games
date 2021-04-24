@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2WS17Qvt"]
+[Date "2021.04.21"]
+[White "Insane_Since_2003"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2021.04.21"]
+[UTCTime "10:41:48"]
+[WhiteElo "2233"]
+[BlackElo "2279"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[WhiteTitle "WCM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. d4 Nxe4 5. a3 Nxc3 6. bxc3 Bxc3+ 7. Bd2 Bxa1 8. Qxa1 exd4 9. Bd3 Qe7+ 10. Kd1 O-O 11. Re1 Qd8 12. Qxd4 d5 13. Bc3 f6 14. Ng5 Nc6 15. Bxh7+ Kh8 16. Qh4 fxg5 17. Qh5 Bg4+ 18. Qxg4 Kxh7 19. Qh5+ Kg8 20. Re3 d4 21. Rh3 dxc3+ 22. Kc1 Rf6 23. Qg4 Qd2+ 24. Kb1 Qf4 25. Qh5 Rh6 26. Qe2 Rxh3 27. gxh3 Qf6 28. Qc4+ Qf7 29. Qg4 Rf8 30. Qxg5 Qf6 31. Qd5+ Qf7 32. Qg5 Ne7 33. h4 Qf6 34. Qb5 c6 35. Qb3+ Nd5 36. f4 Qxf4 37. h5 Qf1+ 38. Ka2 Qh3 39. a4 Qxh5 40. a5 Qf5 41. Ka3 Qf7 42. Qc4 a6 43. Ka4 Nf6 44. Qc5 Qd5 45. Qb4 Qb5+ 46. Qxb5 cxb5+ 47. Kb4 Ng4 48. Ka3 Nxh2 49. Kb3 Nf3 50. Ka3 Ne5 51. Kb3 Nc6 52. Kxc3 Nxa5 53. Kb4 Rc8 54. Kxa5 Rxc2 55. Kb6 Rc1 56. Kxb7 Rc2 57. Kxa6 Rc1 58. Kxb5 Rf1 59. Kb4 Rf7 60. Kc3 g6 61. Kd3 g5 62. Ke3 g4 63. Ke2 g3 64. Ke3 g2 65. Ke4 g1=Q 66. Ke5 Qg6 67. Kd5 Rf5+ 0-1
+
+
