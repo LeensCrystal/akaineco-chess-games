@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/s6XJsfFo"]
+[Date "2021.03.19"]
+[White "Akaineco"]
+[Black "neilstewart"]
+[Result "1-0"]
+[UTCDate "2021.03.19"]
+[UTCTime "10:32:24"]
+[WhiteElo "2267"]
+[BlackElo "2428"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Nf6 5. Bxd7+ Bxd7 6. e5 Ne4 7. exd6 exd6 8. O-O Be7 9. Re1 Nf6 10. dxc5 dxc5 11. Ne5 Be6 12. Qf3 Qd5 13. Nc3 Qxf3 14. Nxf3 h6 15. Nb5 O-O 16. Nc7 Rad8 17. Nxe6 fxe6 18. Rxe6 Rd1+ 19. Re1 Rxe1+ 20. Nxe1 Bd6 21. Be3 Ng4 22. h3 Bh2+ 23. Kh1 Nxe3 24. fxe3 Bg3 25. Nd3 c4 26. Nc5 Bf2 27. Nxb7 Rb8 28. Nd6 Rxb2 29. Nxc4 Rxc2 30. Na3 Re2 31. Nb5 a6 32. Nd4 Rxe3 33. Rf1 Re1 34. Rxe1 Bxe1 35. g4 Kf7 36. Kg2 Ke7 37. Kf3 Kd6 38. Ke4 Kc5 39. Ne6+ Kb4 40. Nxg7 Ka3 41. Nf5 Bd2 42. Kd3 Bf4 43. Ke4 Bc1 44. h4 Kxa2 45. Nxh6 Bxh6 46. g5 Bg7 47. h5 a5 48. h6 Bf8 49. Kf5 a4 50. Kg6 a3 51. h7 Kb1 52. h8=Q a2 53. Qh1+ Kc2 54. Qg2+ Kb1 55. Qf1+ 1-0
+
+
