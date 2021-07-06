@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5ajh8shZ"]
+[Date "2021.06.07"]
+[White "SillyManofwar"]
+[Black "Akaineco"]
+[Result "1/2-1/2"]
+[UTCDate "2021.06.07"]
+[UTCTime "08:25:55"]
+[WhiteElo "2335"]
+[BlackElo "2234"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[WhiteTitle "FM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 e6 3. e3 c6 4. Bd3 f5 5. Ne5 Nf6 6. g4 fxg4 7. Nxg4 Be7 8. Nxf6+ Bxf6 9. Qh5+ Ke7 10. Nc3 g6 11. Qe2 b6 12. Bd2 Bb7 13. O-O-O Nd7 14. e4 Bxd4 15. exd5 cxd5 16. Rhe1 Qg8 17. Bb5 Bf6 18. Nxd5+ Bxd5 19. Bb4+ Kd8 20. Bxd7 Kxd7 21. c4 Rc8 22. Kb1 a5 23. cxd5 axb4 24. Qb5+ Kc7 25. Qc6+ Kb8 26. Qxb6+ Ka8 27. Rxe6 Qg7 28. Rxf6 Qb7 29. Qxb7+ Kxb7 30. Rf7+ Rc7 31. Rxc7+ Kxc7 32. Kc2 Kd6 33. Kb3 Rb8 34. Rd4 Rf8 35. f4 Kc5 36. Rd3 Rxf4 37. d6 Rf8 38. d7 Rd8 39. h4 h6 40. a4 bxa3 41. bxa3 g5 42. hxg5 hxg5 43. a4 g4 44. a5 Kb5 45. a6 Kxa6 46. Kc4 Kb6 47. Rd6+ Kc7 48. Kd5 Rxd7 49. Rxd7+ Kxd7 50. Ke4 g3 51. Kf3 g2 52. Kxg2 1/2-1/2
+
+
