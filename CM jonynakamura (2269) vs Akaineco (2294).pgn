@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qhysNpQG"]
+[Date "2021.06.25"]
+[White "jonynakamura"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2021.06.25"]
+[UTCTime "15:49:51"]
+[WhiteElo "2269"]
+[BlackElo "2294"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[WhiteTitle "CM"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. d3 Nc6 5. Bd2 O-O 6. h3 d5 7. exd5 Nxd5 8. Be2 Nxc3 9. Bxc3 Bxc3+ 10. bxc3 Bf5 11. O-O e4 12. Ne1 Qe7 13. d4 Rad8 14. g4 Bg6 15. Ng2 Ne5 16. f4 Nf3+ 17. Bxf3 exf3 18. Qxf3 Bxc2 19. Rfe1 Qa3 20. Qe2 Qxc3 21. Rac1 Qxd4+ 22. Kh2 Ba4 23. Rc4 Qd7 24. Rec1 Bb5 25. Ne3 Bxc4 26. Nxc4 b5 27. Ne5 Qd2 28. Rc2 Qxe2+ 29. Rxe2 c5 30. Nc6 Rd3 31. Nxa7 b4 32. Nc6 h5 33. Ne5 Ra3 34. Rc2 hxg4 35. hxg4 Rfa8 36. Rxc5 Rxa2+ 37. Kh3 b3 38. Rb5 b2 39. Nc4 R8a4 40. Nxb2 Rxf4 41. Rb8+ Kh7 42. Nd3 Rf3+ 0-1
+
+
