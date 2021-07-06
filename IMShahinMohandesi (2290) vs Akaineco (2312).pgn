@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uvCbFkXi"]
+[Date "2021.06.05"]
+[White "IMShahinMohandesi"]
+[Black "Akaineco"]
+[Result "0-1"]
+[UTCDate "2021.06.05"]
+[UTCTime "17:31:25"]
+[WhiteElo "2290"]
+[BlackElo "2312"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Bd6 4. Bg3 Qe7 5. Nf3 Bxg3 6. hxg3 Qb4+ 7. Nbd2 Qxb2 8. Bd3 Nf6 9. Ne5 Nbd7 10. f4 Qa3 11. g4 Nxe5 12. fxe5 Ne4 13. O-O O-O 14. Rf3 Ng5 15. Rf2 b6 16. Qc1 Qxc1+ 17. Rxc1 c5 18. c4 Ba6 19. Bf1 dxc4 20. Bxc4 Bxc4 21. Rxc4 cxd4 22. exd4 Rac8 23. Kh2 b5 24. Rxc8 Rxc8 25. Nb3 Rc4 26. Rd2 Ne4 27. Re2 Nc3 28. Rc2 Nd5 29. Rxc4 bxc4 30. Nc1 Kf8 31. Kg3 Ke7 32. Kf3 Kd7 33. Ke4 Kc6 34. a3 Kb5 35. g5 Ka4 36. Ne2 Kxa3 37. Ng3 Kb2 38. Nf1 c3 0-1
+
+
